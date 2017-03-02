@@ -1,0 +1,24 @@
+{
+  "name": "nodedp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "antd": "^2.7.4",
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "express": "^4.15.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
